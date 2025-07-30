@@ -20,10 +20,11 @@ Currently, I'm exploring machine learning deeper through the Cornell Tech AI/ML 
 **Wello – AI Powered Nutrition App** https://github.com/kv772/Wello  
 **Tasks Accomplished**: Used OCR to scan food labels and barcodes, and served personalized insights using the Gemini API and a custom rating system.  
 **Stack**: React Native, Flask, Render 
-**Result**: Created a seamless mobile experience for nutrition-conscious users looking for personalized, AI-driven food insights.  
-**Curious?** [Check out the full project here](*https://github.com/kv772/Wello*)
 
-**Pier – College Mentorship Platform** https://github.com/kv772/Pier 
+**Result**: Created a seamless mobile experience for nutrition-conscious users looking for personalized, AI-driven food insights.  
+
+**Pier – College Mentorship Platform** https://github.com/kv772/Pier
+
 **Tasks Accomplished**: Connects first-gen high school students with college mentors and personalized scholarships.  
 **Stack**: React, Flask, Firebase  
 **Learnings**: Product design for equity, matching via questionnaires, and full-stack web development  
