@@ -3,8 +3,6 @@
 🎓 CS major at UT Austin <br>
 🔍 Passionate about Full Stack Development, AI/ML, and building *user-friendly, practical* tech <br>
 
-Currently, I'm exploring machine learning deeper through the Cornell Tech AI/ML Fellowship and building practical projects that combine data, design, and impact. 
-
 ---
 
 🛠 **Tech Stack**  
