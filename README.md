@@ -9,7 +9,7 @@
 **Languages**: Python, Java, C++, C#, JavaScript, TypeScript, SQL, HTML, CSS  
 **Frameworks/Libraries**: React.js, Flask, Node.js, Spring Boot, .NET, TensorFlow, Pandas, NumPy  
 **Tools**: Git, Firebase, Jupyter, Figma, DBeaver, Selenium  
-**Databases**: PostgreSQL, MySQL, Firebase  
+**Databases**: PostgreSQL, Firebase  
 
 ---
 
